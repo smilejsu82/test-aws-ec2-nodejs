@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/smilejsu82/test-aws-ec2-nodejs#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
